@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on: Yampi
-- 🌱 I’m currently learning: Vue.js
+<!-- - 🔭 I’m currently working on:  -->
+- 🌱 I’m currently learning: ReactJS and Node.
 - 💬 Ask me about: ReactJS, Vue.js, TypeScript and Styled Components.
 - 😄 Pronouns: she/her
+- 📫 How to reach me: [in/jacquelinealvesilva](https://www.linkedin.com/in/jacquelinealvesilva)
+- ⚡ Fun fact: I studied four semesters of psychology just out of curiosity 👩‍🏫
 
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jacquelinealves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="jacquelinealves" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=jacquelinealves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="jacquelinealves" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelinealves&langs_count=8&layout=compact&show_icons=true&theme=dracula" alt="jacquelinealves's top languages"/>
   </p>
