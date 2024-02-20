@@ -4,7 +4,7 @@
 </h1>
 
 <p>👩‍💻 My name is Jacqueline Alves but you may call me Jacque or Jack!</p>
-<p>📚 I graduated in Web Communication at the Paulista University (UNIP) and post graduated at the Institute of Management and Information Technology (IGTI).</p>
+<p>📚 I have a degree in Web Communication from Universidade Paulista (UNIP) and a postgraduate degree from the Institute of Management and Information Technology (IGTI).</p>
 <p>👩‍🏫 I’m currently learning: Automated Tests.</p>
 <p>💬 Ask me about: ReactJS, Vue.js and TypeScript.</p>
 <p>😄 Pronouns: she/her.</p>
