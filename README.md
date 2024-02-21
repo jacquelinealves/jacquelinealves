@@ -6,7 +6,7 @@
 <p>👋 My name is <strong>Jacqueline Alves</strong> but you may call me <i>Jacque</i> or <i>Jack</i>!</p>
 <p>👩🏽‍💻 I have a degree in Web Communication from Universidade Paulista (UNIP).</p>
 <p>👩🏻‍🎓 I have a postgraduate degree in Software Architecture from the Institute of Management and Information Technology (IGTI).</p>
-<p>💻 I’m currently learning: Automated Tests.</p>
+<p>💻 I’m currently deepening my knowledge in: Automated Tests.</p>
 <p>💬 Ask me about: ReactJS, Vue.js and TypeScript.</p>
 <p>⚡ Fun fact: I studied four semesters of psychology just out of curiosity.</p>
 
